@@ -132,4 +132,6 @@
 	127. https://github.com/mysql/mysql-connector-python  mysql-connector python
 	128. https://github.com/google/google-authenticator Google 授权码
 	129. https://github.com/WeMobileDev/article 微信开发
+	130. https://github.com/sindresorhus/gifski-app  视频转gif
+	131. https://github.com/kornelski/pngquant  PNG压缩
 
